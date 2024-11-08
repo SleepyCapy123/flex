@@ -1,0 +1,20 @@
+.d-flex {
+    display: flex;
+}
+
+.block1 {
+    background-color: coral;
+}
+
+.block2 {
+    background-color: gold;
+}
+
+.block3 {
+    background-color: mediumseagreen;
+}
+
+.block {
+    height: 300px;
+    width: 300px;
+}
